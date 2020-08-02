@@ -1,5 +1,5 @@
 # work in progress
-### Estimated end date: 4th augest, 2020
+**Estimated end date: 4th augest, 2020**
 
 # ChatBot Using Sequence to Sequence model using LSTM
 In this project I'll be implementing a deep learning approach towards chatbot using LSTM. 
